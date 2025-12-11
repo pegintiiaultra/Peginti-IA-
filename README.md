@@ -22,5 +22,5 @@ jobs:
           git commit -m "Configure domain"
           git push origin main
 ```
-`.github/workflows/deploy-gh-pages.yml`**
-```y
+`.github/workflows/deploy-gh-pages.yml`
+```
