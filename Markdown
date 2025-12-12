@@ -1,0 +1,30 @@
+# Pegintichat
+
+## Table des Matières
+- [Présentation](#présentation)
+- [Installation](#installation)
+- [Configuration](#configuration)
+- [Lancement du Serveur](#lancement-du-serveur)
+- [Déploiement via GitHub Pages](#déploiement-via-github-pages)
+- [Intégration du Widget](#intégration-du-widget)
+- [Contribution et Développement](#contribution-et-développement)
+- [Licence](#licence)
+
+---
+
+## Présentation
+
+Pegintichat est un module de chat en temps réel développé par **TOMTECH Inc** dans le cadre du projet **PEGINTI IA**.  
+Il utilise **Rocket.Chat** comme plateforme de messagerie et propose une **API REST** pour envoyer et recevoir des messages.  
+Le module est conçu pour être déployé via **GitHub Codespaces** et **GitHub Pages**, avec une intégration simple dans tout site web.
+
+---
+
+## Installation
+
+Clonez le dépôt GitHub et installez les dépendances :
+
+```bash
+git clone https://github.com/pegintiiaultra/pegintichat.git
+cd pegintichat
+npm install
