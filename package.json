@@ -1,0 +1,16 @@
+{
+  "name": "pegintichat",
+  "version": "1.0.0",
+  "description": "Pegintichat — chat en ligne utilisant Rocket.Chat",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "@rocket.chat/sdk-node": "^1.14.0"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}
