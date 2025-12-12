@@ -1,0 +1,65 @@
+here# 📢 Fiche de Diffusion Officielle : Pegintichat
+
+## I. Présentation
+
+* **Nom du Module** : Pegintichat  
+* **Description** : Module de chat en temps réel pour les utilisateurs  
+* **Développeur** : Tomo Ombede Barnabé Bertrand  
+* **Maison de Technologie** : TOMTECH Inc  
+* **Date de Création** : 24 juillet 2025  
+
+---
+
+## II. Fonctionnalités
+
+* **Fonctionnalité Principale** : Chat en temps réel pour les utilisateurs  
+* **Authentification** : Intégration avec Rocket.Chat pour la gestion sécurisée des utilisateurs et des sessions  
+* **Envoi de Messages** : Transmission instantanée de messages texte entre utilisateurs  
+* **Réception de Messages** : Réception en temps réel des messages entrants, avec synchronisation automatique  
+* **Interface Web** : Déployée via GitHub Pages, intégrable dans tout site institutionnel ou communautaire  
+
+---
+
+## III. Avantages
+
+* **Communication en Temps Réel** : Permet une communication instantanée entre les utilisateurs  
+* **Sécurité** : Intégration avec Rocket.Chat pour une authentification et une gestion de sessions sécurisées  
+* **Facilité d’Utilisation** : Interface web intuitive et facile à utiliser  
+
+---
+
+## IV. Déploiement
+
+* **Plateforme** : GitHub Pages  
+* **Workflow** : Automatisé via GitHub Actions  
+* **Codespaces** : Développement et test dans un environnement cloud intégré  
+* **Widget** : Intégration simple via script HTML dans tout site web  
+
+---
+
+## V. Public Cible
+
+* Institutions missionnaires et communautaires  
+* Plateformes éducatives et sociales  
+* Partenaires techniques et développeurs open source  
+
+---
+
+## VI. Licence
+
+* **Type** : Licence MIT  
+* **Droits** : Libre utilisation, modification et diffusion sous réserve de mention du développeur  
+
+---
+
+## VII. Contact Technique
+
+* **Nom** : Tomo Ombede Barnabé Bertrand  
+* **Organisation** : TOMTECH Inc / PEGINTI IA  
+* **WhatsApp** : +237 691482453  
+* **Email** : pegintiiaultra@gmail.com / bertrandtomo7@gmail.com  
+* **Site Web** : [https://peginti.e-monsite.com](https://peginti.e-monsite.com)  
+
+---
+
+Pegintichat est le module pilote de PEGINTI IA, conçu pour propager une communication intelligente, sécurisée et institutionnelle à travers les environnements numériques missionnaires et communautaires.
